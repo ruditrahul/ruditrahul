@@ -15,7 +15,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F28017585%2FWhat-time-is-it&psig=AOvVaw29auWJc_TPaBdgxfpe86wU&ust=1631087694664000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMijzqex7PICFQAAAAAdAAAAABAY" />
 
 
 - 🔭 I’m currently pursing my Bachelor's Degree with a mojor in Computer Science from KIIT University, Bhubaneswar, Odisha, India
