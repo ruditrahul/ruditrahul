@@ -13,9 +13,9 @@
 <div size='20px'> Hi! My name is Rudit, Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 70px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f26cf728017585.5636e559efba7.gif" />
+<img width="35%" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f26cf728017585.5636e559efba7.gif" />
 
 
 - 🔭 I’m currently pursing my Bachelor's Degree with a mojor in Computer Science from KIIT University, Bhubaneswar, Odisha, India
