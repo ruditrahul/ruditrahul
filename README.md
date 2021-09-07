@@ -18,9 +18,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on MERN Stack, Github Project
+- 🔭 I’m currently pursing my Bachelor's Degree with a mojor in Computer Science from KIIT University, Bhubaneswar, Odisha, India
 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development and aspires to be a kickass developer
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
@@ -42,8 +42,6 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/rudit-rahul/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://leetcode.com/ruditrahul/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg"/></a>   
-
 <a href = 'https://www.github.com/ruditrahul'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
