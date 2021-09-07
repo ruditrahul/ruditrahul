@@ -18,7 +18,7 @@
 <img width="35%" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f26cf728017585.5636e559efba7.gif" />
 
 
-- 🔭 I’m currently pursing my Bachelor's Degree with a mojor in Computer Science from KIIT University, Bhubaneswar, Odisha, India
+- 🔭 I’m currently pursing my Bachelor's Degree with a major in Computer Science & Engineering from KIIT University, Bhubaneswar, Odisha, India
 
 - 🌱 I’m currently learning Web Development and aspires to be a kickass developer
 
