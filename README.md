@@ -15,7 +15,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img width="35%" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f26cf728017585.5636e559efba7.gif" />
+<img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/502620/screenshots/2037285/batman_run.gif" />
 
 
 - 🔭 I’m currently pursing my Bachelor's Degree with a major in Computer Science & Engineering from KIIT University, Bhubaneswar, Odisha, India
